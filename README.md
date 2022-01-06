@@ -16,6 +16,20 @@ FIGURE 3. Generator network architecture
 
 이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
 
+### Prerequisites
+
+The following should be installed.
+
+```
+Window OS V11
+WSL V2
+Docker desktop for window
+docker image : eungbean/deepo:lab
+Nvidia Driver : 510.06
+CUDA : 11.6
+CUDNN : 7.6.5
+```
+
 ### Device environment
 
 I trained models in this computer environment.
