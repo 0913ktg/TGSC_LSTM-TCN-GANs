@@ -16,18 +16,26 @@ FIGURE 3. Generator network architecture
 
 이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
 
-### Prerequisites / 선행 조건
+### Device environment
 
-아래 사항들이 설치가 되어있어야합니다.
+I trained models in this computer environment.
 
 ```
-예시
+CPU : Ryzen 7 1700
+RAM : 16GB
+GPU : Geforce GTX 1070 (6G)
 ```
 
-### Installing / 설치
+Train time
 
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+```
+1 epoch : 565 sec
+665 epoch (best performance) : 104 hour
+```
 
+### Installing
+
+You can install modules related to the current project with the following items.
 ```
 예시
 ```
