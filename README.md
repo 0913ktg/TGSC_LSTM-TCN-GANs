@@ -14,8 +14,6 @@ FIGURE 3. Generator network architecture
 
 ## Getting Started / 어떻게 시작하나요?
 
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
-
 ### Prerequisites
 
 The following should be installed.
@@ -51,25 +49,15 @@ Train time
 
 You can install modules related to the current project with the following items.
 ```
-예시
+pip install tensorboardX
 ```
 
 ## Running the tests
 
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
-
-
-### 테스트는 이런 식으로 동작합니다
-
-왜 이렇게 동작하는지, 설명합니다
+### Start Training
 
 ```
-예시
-```
-
-### 테스트는 이런 식으로 작성하시면 됩니다
-
-```
-예시
+> cd your_path/TGSC_LSTM-TCN-GANs
+> python3 main.py
 ```
 
