@@ -3,13 +3,13 @@
 **Model Structure**  
 
 ![figure2_a](https://user-images.githubusercontent.com/57590655/148371274-3a2b0d83-78b6-46d5-ae62-d5c67d791f46.jpg)
-
-<center>(a)</center>
-
+<div align=center>
+  (a)
+</div>
 ![figure2_b](https://user-images.githubusercontent.com/57590655/148371278-665a1d36-a663-41b8-b3c0-6d9890aca049.jpg)
-
-<center>(b)</center>
-
+<div align=center>
+  (b)
+</div>
 FIGURE 1.  (a) The proposed 5G Traffic-GAN model architecture. (b) Temporal block structure of discriminator.
 ![figure3](https://user-images.githubusercontent.com/57590655/148371279-f4f2126b-36b6-4909-88fb-987043d520e9.jpg)
 FIGURE 2. Discriminator network architecture
