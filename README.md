@@ -12,7 +12,7 @@ FIGURE 2. Discriminator network architecture
 ![figure4](https://user-images.githubusercontent.com/57590655/148371281-37c9d661-a22c-4f79-b817-5a8b4b7fced1.jpg)
 FIGURE 3. Generator network architecture
 
-## Getting Started / 어떻게 시작하나요?
+## Getting Started
 
 ### Prerequisites
 
